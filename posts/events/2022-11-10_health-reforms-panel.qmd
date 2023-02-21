@@ -1,0 +1,45 @@
+---
+title: "ISPOR NZ Panel Discussion on the Health System Reforms"
+description: "10 November 2022"
+date: "2022-11-03"
+categories: Past events
+---
+
+We are very pleased to announce the upcoming **ISPOR NZ Panel Discussion on the NZ Health System Reforms**, to be held on **Thursday 10 November, 1:00 - 2:30 p.m.**
+
+This event will feature presentations from leading academics and policy makers involved in the ongoing restructuring of the NZ health system, giving a diverse range of perspectives on the progress, challenges, improvements, and next steps in these fundamental changes to our health system.
+
+Presentations will be followed by an open panel discussion with the speakers, moderated by **Associate Professor Trudy Sullivan**, Immediate Past President of ISPOR NZ. Please send your questions in advance to <ispornewzealand@gmail.com> (there will also be opportunity to ask further questions during the event).
+
+#### *Speakers/Discussants*
+
+::: {layout="[20, 80]"}
+![](_images/bronwyn-croxson.jpg)
+
+**Dr Bronwyn Croxson**\
+Chief Health Economist, Ministry of Health
+:::
+
+::: {layout="[20, 80]"}
+![](_images/robin-gauld.jpg)
+
+**Professor Robin Gauld**\
+Dean and Pro-Vice Chancellor (Commerce), Otago Business School\
+Co-Director, Centre for Health Systems, University of Otago
+:::
+
+::: {layout="[20, 80]"}
+![](_images/sue-crengle.jpg)
+
+**Professor Sue Crengle**\
+Director of the Ngāi Tahu Māori Health Research Unit, University of Otago\
+Member of the Board of Te Aka Whai Ora/Māori Health Authority
+:::
+
+::: {layout="[20, 80]"}
+![](_images/tim-stokes.jpg)
+
+**Professor Tim Stokes**\
+Head of the Department of General Practice and Rural Health, Otago Medical School\
+Co-Director of the Centre for Health Systems, University of Otago
+:::

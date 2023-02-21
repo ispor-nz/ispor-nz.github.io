@@ -1,0 +1,17 @@
+---
+title: "ISPOR NZ webinar - Prof Michael Law"
+description: "2022-06-15"
+image: "_images/michael-law.jpg"
+date: "2022-06-07"
+categories: Past events
+---
+
+<img src="_images/michael-law.jpg" style="float:left;margin-right:10px;margin-top:10px">
+
+We are very pleased to announce the next webinar in the ISPOR NZ 2022 webinar series will be presented by **Professor Michael Law**, of the University of British Columbia.
+
+Prof Law holds the Canada Research Chair in Access to Medicines and is a Professor in the Centre for Health Services and Policy Research, School of Population and Public Health, at the University of British Columbia. His research program focuses on pharmaceutical policy and the access to and use of prescription drugs, including the affordability of prescription drugs, private drug insurance, generic drug pricing, and the impact of pharmacist prescribing.
+
+In this talk, Prof Law will discuss the use of biosimilars to improve competition and reduce drug costs. Biosimilars - agents with with similar efficacy and safety to originator biologic drugs - offer an important avenue for cost savings to address the growing expenditure on biologics, yet their uptake remains low. Prof Law will discuss the impact of policies to strengthen the biosimilars market and increase their uptake, drawing on an analysis of the Canadian experience.
+
+The webinar will be held at **10am on Wednesday 15 June**.

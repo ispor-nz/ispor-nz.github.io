@@ -1,0 +1,17 @@
+---
+title: "ISPOR NZ webinar - Prof Nils Gutacker"
+description: "16 March 2023"
+image: "_images/nils-gutacker.jpg"
+date: "2023-02-07"
+categories: Upcoming events
+---
+
+<img src="_images/nils-gutacker.jpg" style="float:left;margin-right:10px;margin-top:10px">
+
+We are very pleased to announce the next ISPOR NZ webinar will be presented by **Prof Nils Gutacker**.
+
+Prof Gutacker is a Professor of Health Economics at the Centre for Health Economics, University of York, and a Visiting Professor at Macquarie Business School, Sydney. His research focuses on the impact of incentives and market structures on the equitable and efficient provision of health care services. He has a long-standing interest in the use of routinely collected patient-reported outcome measures to measure quality of care and value for money in the health care system.
+
+In this talk, he will discuss the potential uses of patient-reported outcomes measures (PROMs) data to improve equity, efficiency and value for money in the provision of health care services adopting an economist’s point of view.
+
+The webinar will be held at **10am on Thursday 16 March**. Further details and a link for registration will be provided soon.

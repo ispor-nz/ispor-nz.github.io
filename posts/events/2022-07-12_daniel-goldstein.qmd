@@ -1,0 +1,18 @@
+---
+title: "ISPOR NZ webinar - Dr Daniel Goldstein"
+description: "2022-07-12"
+image: "_images/daniel-goldstein.jpg"
+date: "2022-08-04"
+categories: Past events
+---
+
+<p><img src="_images/daniel-goldstein.jpg" style="float:left;margin-right:10px;margin-top:10px">
+We are very pleased to announce the next webinar in the ISPOR NZ 2022 webinar series will be presented by **Dr Daniel Goldstein**. Dr Goldstein is a medical oncologist at Rabin Medical Center, a senior lecturer in Medical Oncology at Tel Aviv University, and medical director of drug and technology policies in the community division of Clalit Health Services.</p>
+
+This webinar will draw on Dr Goldstein's  considerable experience consulting on policy advancements in health care  systems to offer insights and updates on modern developments in  precision medicine for oncology. Particularly, experience personalising  previously standardised national treatment programmes to provide greater  cost-effectiveness of care without hurting patient outcomes.
+
+Dr  Goldstein will discuss pharmacologic opportunities to reduce cancer  drug expenditure without harming patient outcomes; the use of  weight-based immunotherapy, used in multiple cancers, which can save 25%  of resources; and the existence of class effects, which can also lead  to significant cost savings.
+
+The webinar will be introduced and mediated by Dr Jonathan Briody,  health economist in the Division of Population Health Sciences at the Royal College of Surgeons in Ireland.
+
+The webinar will be held at **3.30pm on Tuesday 12 July**.

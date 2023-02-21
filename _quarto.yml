@@ -3,18 +3,31 @@ project:
   output-dir: docs
 
 website:
-  title: "ispor-nz.github.io"
+  title: "ISPOR New Zealand Chapter"
+  search: false
   navbar:
+    title: false
+    logo: _images/ISPOR_NewZealandChapter_Logo.jpg
+    background: white
+    pinned: true
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - text: About
+        menu:
+          - href: nz-chapter.qmd
+            text: NZ Chapter
+          - href: what-is-ispor.qmd
+            text: What is ISPOR?
+          - href: contact.qmd
+            text: Contact us
+      - href: events.qmd
+        text: Events & News
+      - href: membership.qmd
+        text: Membership
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
-    toc: true
-
-
-
+    template-partials: title-metadata.html

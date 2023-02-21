@@ -1,0 +1,6 @@
+---
+title: "Pasquale Gargiulo"
+subtitle: "Treasurer"
+description: "Pasquale is a B.Pharm graduate of the Otago University School of Pharmacy and an MSc graduate from Auckland University. He spent nearly 3 years as a Science Advisor at Medsafe, the NZ regulatory authority, before joining Janssen Cilag in 1999. During his 23 years in the pharmaceutical industry, he has held functional responsibility for many departments including Regulatory Affairs, Quality, Pharmacovigilance, Medical Information, Business Development and Market Access. Pasquale is currently the Associate Medical Director for Pfizer in NZ."
+image: _images/pasquale-gargiulo.jpg
+---

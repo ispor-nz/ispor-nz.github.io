@@ -1,0 +1,16 @@
+---
+title: "Our Team"
+listing:
+  contents: team
+  sort: "id asc"
+  type: grid
+  grid-columns: 3
+  fields: [title, subtitle, description, image]
+  max-description-length: 1000
+  image-height: 300px
+  template: gallery.ejs
+page-layout: full
+format:
+  html:
+    fontsize: medium
+---

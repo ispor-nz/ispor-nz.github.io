@@ -1,0 +1,46 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/events/2023-03-16_nils-gutacker.html",
+      "/posts/events/2022-11-10_health-reforms-panel.html",
+      "/posts/events/2022-10-31_emilia-price.html",
+      "/posts/events/2022-08-18_stephanie-harvard.html",
+      "/posts/events/2022-07-12_daniel-goldstein.html",
+      "/posts/events/2022-06-15_michael-law.html"
+    ]
+  },
+  {
+    "listing": "/nz-chapter.html",
+    "items": [
+      "/team/carlo-marra.html",
+      "/team/trudy-sullivan.html",
+      "/team/pasquale-gargiulo.html"
+    ]
+  },
+  {
+    "listing": "/events.html",
+    "items": [
+      "/posts/events/2023-03-16_nils-gutacker.html",
+      "/posts/events/2022-11-10_health-reforms-panel.html",
+      "/posts/events/2022-10-31_emilia-price.html",
+      "/posts/events/2022-08-18_stephanie-harvard.html",
+      "/posts/events/2022-07-12_daniel-goldstein.html",
+      "/posts/events/2022-06-15_michael-law.html"
+    ]
+  },
+  {
+    "listing": "/membership.html",
+    "items": [
+      "/team/carlo-marra.html",
+      "/team/trudy-sullivan.html",
+      "/team/pasquale-gargiulo.html"
+    ]
+  },
+  {
+    "listing": "/contact.html",
+    "items": [
+      "/posts/events/2022-03-16_nils-gutacker.html"
+    ]
+  }
+]

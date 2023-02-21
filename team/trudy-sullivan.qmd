@@ -1,0 +1,6 @@
+---
+title: "Trudy Sullivan"
+subtitle: "Past President"
+description: "Dr Trudy Sullivan is a health economist consultant at the Dunedin School of Medicine, and a lecturer in the Department of Preventive and Social Medicine, University of Otago. Trudy's main research interests lie in the areas of health economics and programme evaluation, public health and wellbeing, and the use of multi-criteria decision analysis (MCDA) in priority-setting."
+image: _images/trudy-sullivan.jpg
+---

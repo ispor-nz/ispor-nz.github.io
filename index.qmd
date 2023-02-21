@@ -1,11 +1,14 @@
 ---
-title: "ispor-nz.github.io"
+title: "Welcome to ISPOR NZ Chapter!"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: grid
+  max-items: 6
+  grid-columns: 3
+  fields: [title, description, image]
 ---
 
-This is a Quarto website.
+ISPOR (NZ) is the only scientific organisation in New Zealand that brings together health care scientists, professionals and providers, academics, procurement and budget holders, suppliers, publishers, policy makers and others interested in the economics of healthcare interventions. Our aim is to provide an environment that enables collaborative sharing of knowledge and to act as a resource for those interested in health technology economics and outcomes research.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+## News and events

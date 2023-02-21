@@ -1,0 +1,15 @@
+---
+title: "ISPOR NZ webinar - Dr Stephanie Harvard"
+description: "2022-08-18"
+image: "_images/stephanie-harvard.jpg"
+date: "2022-08-04"
+categories: Past events
+---
+
+<img src="_images/stephanie-harvard.jpg" style="float:left;margin-right:10px;margin-top:10px">
+
+We are very pleased to announce the next webinar in the ISPOR NZ 2022 webinar series will be presented by **Dr Stephanie Harvard**. Dr Harvard is a Michael Smith Health Research Post-Doctoral Research Fellow at the UBC Faculty of Pharmaceutical Sciences. Her work focuses on understanding and communicating the role of social and ethical values in health economics modelling and exploring new ways of informing models with patient and public values.
+
+In this webinar, Dr Harvard will describe some of her recent qualitative and philosophical work characterising value judgements in health economic modelling. Focusing on the concept of 'representational risk', she will discuss the need for public involvement in managing value judgements in modelling, highlighting some of the challenges and opportunities that this involvement presents.
+
+The webinar will be held at **10am on Thursday 18 August**. 

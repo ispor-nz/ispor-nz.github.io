@@ -1,0 +1,17 @@
+---
+title: "Events"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: grid
+  max-items: 6
+  grid-columns: 3
+  fields: [title, description, image]
+  categories: true
+---
+
+We run a regular series of webinars and face-to-face meetings throughout the year.
+
+Presentation slides and webinar recordings are available to our members for many of these talks. Please contact us at <ispornewzealand@gmail.com> if you would like access to any of these.
+
+## Recent and upcoming events
