@@ -3,4 +3,5 @@ title: "Carlo Marra"
 subtitle: "President"
 description: "Professor Carlo Marra [BSc (Pharm),PharmD, PhD] is Dean of the School of Pharmacy at the University of Otago. Professor Marra completed a PhD in health economics/health outcomes research at the University of British Columbia in 2004 but has been active in health economics research since 1995 as a research pharmacist at Vancouver General Hospital in Canada.  Professor Marra has published more than 250 peer-reviewed manuscripts and has presented at more than 150 international conferences.   Professor Marra’s research interests are economic evaluation of health care programmes and strategies, patient preferences, and choice experiments.   Professor Marra is an Associate Editor (Health Economics) for the journal Arthritis Care and Research."
 image: _images/carlo-marra.jpg
+id: 1
 ---

@@ -1,0 +1,6 @@
+---
+title: "William Leung"
+description: "William Leung, MSc (Health Econ) MSc (Op Res) MSc (Comp Sci), is a senior lecturer in health economics at the University of Otago, Wellington, and consulting health economist at the Dunedin School of Medicine. Prior to receiving his master’s degree at York, he worked in the UK NHS and other government agencies as an analyst. Recent projects have included an economic evaluation funded by US CDC and an operational research study with MfE."
+image: "_images/ISPOR_NewZealandChapter_Logo_edited.jpg"
+id: 5
+---

@@ -31,3 +31,4 @@ format:
     theme: flatly
     css: styles.css
     template-partials: title-metadata.html
+    page-layout: full

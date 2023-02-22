@@ -1,0 +1,6 @@
+---
+title: "Aubrey Stones"
+description: " "
+image: "_images/ISPOR_NewZealandChapter_Logo_edited.jpg"
+id: 6
+---

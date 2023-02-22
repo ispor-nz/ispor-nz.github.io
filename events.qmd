@@ -1,7 +1,7 @@
 ---
 title: "Events"
 listing:
-  contents: posts
+  contents: posts/events
   sort: "date desc"
   type: grid
   max-items: 6

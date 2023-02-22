@@ -1,0 +1,7 @@
+---
+title: "Ross Wilson"
+subtitle: "Secretary"
+description: "Ross Wilson [BCom(Hons), PhD] is a research fellow at the Centre for Musculoskeletal Outcomes Research, University of Otago. His research interests are in the valuation of health-related quality of life (HRQoL), economic evaluation of healthcare interventions, and simulation modelling of disease epidemiology and treatment to inform health care policy."
+image: _images/ross-wilson.jpg
+id: 4
+---

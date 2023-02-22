@@ -61,7 +61,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-title','listing-subtitle','listing-description','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] }],
       
-      searchColumns: ["listing-title","listing-subtitle","listing-description","listing-image","listing-path","listing-author","listing-filename","listing-file-modified","listing-reading-time"],
+      searchColumns: ["listing-title","listing-subtitle","listing-description","listing-image","listing-id","listing-path","listing-author","listing-filename","listing-file-modified","listing-reading-time"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -92,10 +92,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./_images/ispor-nz-logo.jpg" alt="" class="navbar-logo">
-    </a>
-    <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title"></span>
+    <img src="./_images/ISPOR_NewZealandChapter_Logo.jpg" alt="" class="navbar-logo">
     </a>
   </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -169,7 +166,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-custom" id="listing-listing">
 <div class="list grid" style="column-gap: 10px;">
-  <div class="card border-2 rounded-3 g-col-12 g-col-sm-6 g-col-md-4 mb-2" data-index="0" data-listing-file-modified-sort="1676954161202" data-listing-reading-time-sort="0.005" style="margin:10px">
+  <div class="card border-2 rounded-3 g-col-12 g-col-sm-6 g-col-md-4 mb-2" data-index="0" data-listing-file-modified-sort="1677046192997" data-listing-reading-time-sort="0.005" style="margin:10px">
   <div style="margin:30px">
     <img src="./team/_images/carlo-marra.jpg" alt="Carlo Marra" width="100%">
     <h2 class="anchored">Carlo Marra</h2>
@@ -177,7 +174,7 @@ ul.task-list li input[type="checkbox"] {
     <div>Professor Carlo Marra [BSc (Pharm),PharmD, PhD] is Dean of the School of Pharmacy at the University of Otago. Professor Marra completed a PhD in health economics/health outcomes research at the University of British Columbia in 2004 but has been active in health economics research since 1995 as a research pharmacist at Vancouver General Hospital in Canada.  Professor Marra has published more than 250 peer-reviewed manuscripts and has presented at more than 150 international conferences.   Professor Marra’s research interests are economic evaluation of health care programmes and strategies, patient preferences, and choice experiments.   Professor Marra is an Associate Editor (Health Economics) for the journal Arthritis Care and Research.</div>
   </div>
   </div>
-  <div class="card border-2 rounded-3 g-col-12 g-col-sm-6 g-col-md-4 mb-2" data-index="1" data-listing-file-modified-sort="1676954157214" data-listing-reading-time-sort="0.005" style="margin:10px">
+  <div class="card border-2 rounded-3 g-col-12 g-col-sm-6 g-col-md-4 mb-2" data-index="1" data-listing-file-modified-sort="1677046212977" data-listing-reading-time-sort="0.005" style="margin:10px">
   <div style="margin:30px">
     <img src="./team/_images/trudy-sullivan.jpg" alt="Trudy Sullivan" width="100%">
     <h2 class="anchored">Trudy Sullivan</h2>
@@ -185,12 +182,36 @@ ul.task-list li input[type="checkbox"] {
     <div>Dr Trudy Sullivan is a health economist consultant at the Dunedin School of Medicine, and a lecturer in the Department of Preventive and Social Medicine, University of Otago. Trudy's main research interests lie in the areas of health economics and programme evaluation, public health and wellbeing, and the use of multi-criteria decision analysis (MCDA) in priority-setting.</div>
   </div>
   </div>
-  <div class="card border-2 rounded-3 g-col-12 g-col-sm-6 g-col-md-4 mb-2" data-index="2" data-listing-file-modified-sort="1676954110394" data-listing-reading-time-sort="0.005" style="margin:10px">
+  <div class="card border-2 rounded-3 g-col-12 g-col-sm-6 g-col-md-4 mb-2" data-index="2" data-listing-file-modified-sort="1677046218045" data-listing-reading-time-sort="0.005" style="margin:10px">
   <div style="margin:30px">
     <img src="./team/_images/pasquale-gargiulo.jpg" alt="Pasquale Gargiulo" width="100%">
     <h2 class="anchored">Pasquale Gargiulo</h2>
     <h3 style="font-style:italic" class="anchored">Treasurer</h3>
     <div>Pasquale is a B.Pharm graduate of the Otago University School of Pharmacy and an MSc graduate from Auckland University. He spent nearly 3 years as a Science Advisor at Medsafe, the NZ regulatory authority, before joining Janssen Cilag in 1999. During his 23 years in the pharmaceutical industry, he has held functional responsibility for many departments including Regulatory Affairs, Quality, Pharmacovigilance, Medical Information, Business Development and Market Access. Pasquale is currently the Associate Medical Director for Pfizer in NZ.</div>
+  </div>
+  </div>
+  <div class="card border-2 rounded-3 g-col-12 g-col-sm-6 g-col-md-4 mb-2" data-index="3" data-listing-file-modified-sort="1677046199297" data-listing-reading-time-sort="0.005" style="margin:10px">
+  <div style="margin:30px">
+    <img src="./team/_images/ross-wilson.jpg" alt="Ross Wilson" width="100%">
+    <h2 class="anchored">Ross Wilson</h2>
+    <h3 style="font-style:italic" class="anchored">Secretary</h3>
+    <div>Ross Wilson [BCom(Hons), PhD] is a research fellow at the Centre for Musculoskeletal Outcomes Research, University of Otago. His research interests are in the valuation of health-related quality of life (HRQoL), economic evaluation of healthcare interventions, and simulation modelling of disease epidemiology and treatment to inform health care policy.</div>
+  </div>
+  </div>
+  <div class="card border-2 rounded-3 g-col-12 g-col-sm-6 g-col-md-4 mb-2" data-index="4" data-listing-file-modified-sort="1677046324370" data-listing-reading-time-sort="0.005" style="margin:10px">
+  <div style="margin:30px">
+    <img src="./team/_images/ISPOR_NewZealandChapter_Logo_edited.jpg" alt="William Leung" width="100%">
+    <h2 class="anchored">William Leung</h2>
+    <h3 style="font-style:italic" class="anchored"></h3>
+    <div>William Leung, MSc (Health Econ) MSc (Op Res) MSc (Comp Sci), is a senior lecturer in health economics at the University of Otago, Wellington, and consulting health economist at the Dunedin School of Medicine. Prior to receiving his master’s degree at York, he worked in the UK NHS and other government agencies as an analyst. Recent projects have included an economic evaluation funded by US CDC and an operational research study with MfE.</div>
+  </div>
+  </div>
+  <div class="card border-2 rounded-3 g-col-12 g-col-sm-6 g-col-md-4 mb-2" data-index="5" data-listing-file-modified-sort="1677054892608" data-listing-reading-time-sort="0.005" style="margin:10px">
+  <div style="margin:30px">
+    <img src="./team/_images/ISPOR_NewZealandChapter_Logo_edited.jpg" alt="Aubrey Stones" width="100%">
+    <h2 class="anchored">Aubrey Stones</h2>
+    <h3 style="font-style:italic" class="anchored"></h3>
+    <div> </div>
   </div>
   </div>
 </div>
