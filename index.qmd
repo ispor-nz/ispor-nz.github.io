@@ -4,6 +4,7 @@ listing:
   contents: posts
   sort: "date desc"
   type: grid
+  image-height: "200px"
   max-items: 8
   grid-columns: 4
   fields: [title, description, image]
