@@ -6,7 +6,7 @@ date: "2023-02-07"
 categories: Upcoming events
 ---
 
-<img src="_images/nils-gutacker.jpg" style="float:left;margin-right:10px;margin-top:10px">
+![](_images/nils-gutacker.jpg){style="float:left;margin-right:10px;margin-top:10px"}
 
 We are very pleased to announce the next ISPOR NZ webinar will be presented by **Prof Nils Gutacker**.
 
@@ -14,4 +14,12 @@ Prof Gutacker is a Professor of Health Economics at the Centre for Health Econom
 
 In this talk, he will discuss the potential uses of patient-reported outcomes measures (PROMs) data to improve equity, efficiency and value for money in the provision of health care services adopting an economist’s point of view.
 
-The webinar will be held at **10am on Thursday 16 March**. Further details and a link for registration will be provided soon.
+The webinar will be held at **10am on Thursday 16 March**. Please complete the registration form below to secure your place.
+
+<br>
+
+***
+
+## Webinar registration{style="max-width:800px; margin:auto"}
+
+<script src="https://www.cognitoforms.com/f/seamless.js" data-key="_dW8dQmWak6rztGhzLHX3g" data-form="1"></script>
