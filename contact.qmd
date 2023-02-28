@@ -4,4 +4,4 @@ title: "Contact us"
 
 To contact us with any comments or questions, please email us at <ispornewzealand@gmail.com> or fill out the form below.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdO3uJ5u2I2_mxZ4Wk0qrCfMJ-yhrrnaVq6_eQdsk7SAQWMJA/viewform?embedded=true" width="640" height="809" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<script src="https://www.cognitoforms.com/f/seamless.js" data-key="_dW8dQmWak6rztGhzLHX3g" data-form="2"></script>

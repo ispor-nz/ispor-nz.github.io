@@ -28,5 +28,11 @@ If you haven’t already, connect with us on [LinkedIn](http://nz.linkedin.com/p
 
 We look forward to your membership and seeing you at the events. In the meantime, if you have any questions or suggestions, please get in touch: <ispornewzealand@gmail.com>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScnJ1TvkM4J3J423lARa9Cb9ppaWROshcDHJ_AvtplsuE8aMw/viewform?embedded=true" width="640" height="1997" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<br>
+
+***
+
+## Membership registration form{style="max-width:800px; margin:auto"}
+
+<script src="https://www.cognitoforms.com/f/seamless.js" data-key="_dW8dQmWak6rztGhzLHX3g" data-form="3"></script>
 
