@@ -13,17 +13,6 @@
     ]
   },
   {
-    "listing": "/nz-chapter.html",
-    "items": [
-      "/team/carlo-marra.html",
-      "/team/trudy-sullivan.html",
-      "/team/pasquale-gargiulo.html",
-      "/team/ross-wilson.html",
-      "/team/william-leung.html",
-      "/team/aubrey-stones.html"
-    ]
-  },
-  {
     "listing": "/events.html",
     "items": [
       "/posts/events/2023-03-16_nils-gutacker.html",
@@ -37,17 +26,14 @@
     ]
   },
   {
-    "listing": "/membership.html",
+    "listing": "/nz-chapter.html",
     "items": [
       "/team/carlo-marra.html",
       "/team/trudy-sullivan.html",
-      "/team/pasquale-gargiulo.html"
-    ]
-  },
-  {
-    "listing": "/contact.html",
-    "items": [
-      "/posts/events/2022-03-16_nils-gutacker.html"
+      "/team/pasquale-gargiulo.html",
+      "/team/ross-wilson.html",
+      "/team/william-leung.html",
+      "/team/aubrey-stones.html"
     ]
   }
 ]
