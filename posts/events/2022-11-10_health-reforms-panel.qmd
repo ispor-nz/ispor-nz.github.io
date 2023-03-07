@@ -14,7 +14,7 @@ Presentations will be followed by an open panel discussion with the speakers, mo
 #### *Speakers/Discussants*
 
 ::: {layout="[20, 80]"}
-![](_images/bronwyn-croxson.jpg)
+![](_images/bronwyn-croxson_thumbnail.jpg){style="width:120px"}
 
 **Dr Bronwyn Croxson**\
 Chief Health Economist, Ministry of Health
@@ -29,7 +29,7 @@ Co-Director, Centre for Health Systems, University of Otago
 :::
 
 ::: {layout="[20, 80]"}
-![](_images/sue-crengle.jpg)
+![](_images/sue-crengle_thumbnail.jpg){style="width:120px;"}
 
 **Professor Sue Crengle**\
 Director of the Ngāi Tahu Māori Health Research Unit, University of Otago\
@@ -37,7 +37,7 @@ Member of the Board of Te Aka Whai Ora/Māori Health Authority
 :::
 
 ::: {layout="[20, 80]"}
-![](_images/tim-stokes.jpg)
+![](_images/tim-stokes.jpg){style="width:120px;"}
 
 **Professor Tim Stokes**\
 Head of the Department of General Practice and Rural Health, Otago Medical School\

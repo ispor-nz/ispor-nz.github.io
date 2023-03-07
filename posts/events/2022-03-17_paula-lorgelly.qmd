@@ -1,9 +1,11 @@
 ---
-title: "ISPOR NZ webinar"
+title: "ISPOR NZ webinar -- Prof Paula Lorgelly"
 description: "17 March 2022"
 date: "2022-03-03"
 categories: Past events
 ---
+
+<br>
 
 <h3 style="text-align:center">New Developments in Economic Evaluation:<br>Could Aotearoa New Zealand be a Petri Dish?</h3>
 

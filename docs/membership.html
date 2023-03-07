@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-99.9.9">
+<meta name="generator" content="quarto-1.2.313">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -24,11 +24,11 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<link href="./_images/ispor-nz-icon.jpg" rel="icon" type="image/jpeg">
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -69,39 +69,37 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
+    <a class="nav-link" href="./index.html">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">About</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-about">    
         <li>
-    <a class="dropdown-item" href="./nz-chapter.html" rel="" target="">
+    <a class="dropdown-item" href="./nz-chapter.html">
  <span class="dropdown-text">NZ Chapter</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./what-is-ispor.html" rel="" target="">
+    <a class="dropdown-item" href="./what-is-ispor.html">
  <span class="dropdown-text">What is ISPOR?</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./contact.html" rel="" target="">
+    <a class="dropdown-item" href="./contact.html">
  <span class="dropdown-text">Contact us</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./events.html" rel="" target="">
+    <a class="nav-link" href="./events.html">
  <span class="menu-text">Events &amp; News</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./membership.html" rel="" target="" aria-current="page">
+    <a class="nav-link active" href="./membership.html" aria-current="page">
  <span class="menu-text">Membership</span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools ms-auto">
-</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -136,7 +134,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Our aim is to provide an environment that enables collaborative sharing of knowledge and to act as a resource for those interested in health technology economics and outcomes research.</p>
 <p>Memberships are currently being accepted. To enrol as a member of ISPOR (NZ) please fill out the form below.</p>
 <section id="benefits-of-ispor-nz-membership" class="level2">
-<h2 class="anchored" data-anchor-id="benefits-of-ispor-nz-membership">Benefits of ISPOR (NZ) membership</h2>
+<h2 data-anchor-id="benefits-of-ispor-nz-membership">Benefits of ISPOR (NZ) membership</h2>
 <ul>
 <li>Linkage outside the usual professional groups.</li>
 <li>Free or discounted educational workshops and webinar tutorials.</li>
@@ -145,7 +143,7 @@ ul.task-list li input[type="checkbox"] {
 <p>We hold bi-annual national events, usually in Auckland or Wellington, and regular webinars to keep members up with the latest local and international thinking on health economics.</p>
 </section>
 <section id="cost" class="level2">
-<h2 class="anchored" data-anchor-id="cost">Cost</h2>
+<h2 data-anchor-id="cost">Cost</h2>
 <ul>
 <li>$80 non-students</li>
 <li>$50 members of ISPOR International</li>
@@ -157,7 +155,7 @@ ul.task-list li input[type="checkbox"] {
 <hr>
 </section>
 <section id="membership-registration-form" class="level2" style="max-width:800px; margin:auto">
-<h2 style="max-width:800px; margin:auto" class="anchored" data-anchor-id="membership-registration-form">Membership registration form</h2>
+<h2 style="max-width:800px; margin:auto" data-anchor-id="membership-registration-form">Membership registration form</h2>
 <script src="https://www.cognitoforms.com/f/seamless.js" data-key="_dW8dQmWak6rztGhzLHX3g" data-form="3"></script>
 
 
@@ -184,13 +182,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;
@@ -258,92 +249,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
-      let selectedAnnoteEl;
-      const selectorForAnnotation = ( cell, annotation) => {
-        let cellAttr = 'data-code-cell="' + cell + '"';
-        let lineAttr = 'data-code-annotation="' +  annotation + '"';
-        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
-        return selector;
-      }
-      const selectCodeLines = (annoteEl) => {
-        const doc = window.document;
-        const targetCell = annoteEl.getAttribute("data-target-cell");
-        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
-        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
-        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
-        const lineIds = lines.map((line) => {
-          return targetCell + "-" + line;
-        })
-        let top = null;
-        let height = null;
-        let parent = null;
-        if (lineIds.length > 0) {
-            //compute the position of the single el (top and bottom and make a div)
-            const el = window.document.getElementById(lineIds[0]);
-            top = el.offsetTop;
-            height = el.offsetHeight;
-            parent = el.parentElement.parentElement;
-          if (lineIds.length > 1) {
-            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
-            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
-            height = bottom - top;
-          }
-          if (top !== null && height !== null && parent !== null) {
-            // cook up a div (if necessary) and position it 
-            let div = window.document.getElementById("code-annotation-line-highlight");
-            if (div === null) {
-              div = window.document.createElement("div");
-              div.setAttribute("id", "code-annotation-line-highlight");
-              div.style.position = 'absolute';
-              parent.appendChild(div);
-            }
-            div.style.top = top - 2 + "px";
-            div.style.height = height + 4 + "px";
-            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
-            if (gutterDiv === null) {
-              gutterDiv = window.document.createElement("div");
-              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
-              gutterDiv.style.position = 'absolute';
-              const codeCell = window.document.getElementById(targetCell);
-              const gutter = codeCell.querySelector('.code-annotation-gutter');
-              gutter.appendChild(gutterDiv);
-            }
-            gutterDiv.style.top = top - 2 + "px";
-            gutterDiv.style.height = height + 4 + "px";
-          }
-          selectedAnnoteEl = annoteEl;
-        }
-      };
-      const unselectCodeLines = () => {
-        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
-        elementsIds.forEach((elId) => {
-          const div = window.document.getElementById(elId);
-          if (div) {
-            div.remove();
-          }
-        });
-        selectedAnnoteEl = undefined;
-      };
-      // Attach click handler to the DT
-      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
-      for (const annoteDlNode of annoteDls) {
-        annoteDlNode.addEventListener('click', (event) => {
-          const clickedEl = event.target;
-          if (clickedEl !== selectedAnnoteEl) {
-            unselectCodeLines();
-            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
-            if (activeEl) {
-              activeEl.classList.remove('code-annotation-active');
-            }
-            selectCodeLines(clickedEl);
-            clickedEl.classList.add('code-annotation-active');
-          } else {
-            // Unselect the line
-            unselectCodeLines();
-            clickedEl.classList.remove('code-annotation-active');
-          }
-        });
-      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {

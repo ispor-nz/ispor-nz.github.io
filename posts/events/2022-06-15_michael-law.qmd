@@ -6,7 +6,7 @@ date: "2022-06-07"
 categories: Past events
 ---
 
-<img src="_images/michael-law.jpg" style="float:left;margin-right:10px;margin-top:10px">
+<img src="_images/michael-law.jpg" style="float:left;margin-right:10px;margin-top:10px;height:160px">
 
 We are very pleased to announce the next webinar in the ISPOR NZ 2022 webinar series will be presented by **Professor Michael Law**, of the University of British Columbia.
 

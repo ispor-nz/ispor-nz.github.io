@@ -13,19 +13,19 @@ We are very pleased to announce that the keynote presentation at the AGM will be
 #### *Keynote Speakers*
 
 <div>
-<img src="_images/chris-carswell.jpg" style="float:left;margin-right:10px;margin-top:10px">
+<img src="_images/chris-carswell.jpg" style="float:left;margin-right:20px;margin-top:7px;height:140px;">
 
 **Chris Carswell** has been the Editor in Chief of PharmacoEconomics for eighteen years. He is also a Senior Editor for springer Nature leading a team of nine other professional journal editors in the fields of pharmacoeconomics, pharmacovigilance, sports medicine and pharmacokinetics. He practised as a clinical pharmacist for over 10 years before becoming a medical writer and then a full-time professional journal editor with Adis publications in 2001. He has been a member of the World Association of Medical Editors and President of the New Zealand Chapter of the International Society of Pharmacoeconomics and Outcomes Research.
 </div>
 
 <div>
-<img src="_images/michael-drummond.jpg" style="float:left;margin-right:10px;margin-top:10px">
+<img src="_images/michael-drummond.jpg" style="float:left;margin-right:20px;margin-top:7px;height:140px;">
 
 **Prof Michael Drummond**, BSc, MCom, DPhil is Professor of Health Economics and former Director of the Centre for Health Economics at the University of York. His particular field of interest is in the economic evaluation of health care treatments and programmes. He has undertaken evaluations in a wide range of medical fields including care of the elderly, neonatal intensive care, immunization programmes, services for people with AIDS, eye health care and pharmaceuticals. He is the author of two major textbooks and more than 700 scientific papers, and has acted as a consultant to the World Health Organization and the European Union. He has been President of the International Society of Technology Assessment in Health Care, and the International Society for Pharmacoeconomics and Outcomes Research. In October 2010 he was made a member of the National Academy of Medicine in the USA. He has advised several governments on the assessment of health technologies and chaired one of the Guideline Review Panels for the National Institute for Health and Care Excellence (NICE) in the UK. He is currently Co-Editor-in-Chief of Value in Health and has been awarded 3 honorary doctorates, from City University (London), Erasmus University (Rotterdam) and the University of Lisbon. He was a member of the Steering Group for the 2021-2022 NICE Methods Review.
 </div>
 
 <div>
-<img src="_images/don-husereau.jpg" style="float:left;margin-right:10px;margin-top:10px">
+<img src="_images/don-husereau.jpg" style="float:left;margin-right:20px;margin-top:7px;height:140px;">
 
 **Prof Don Husereau** is an Adjunct Professor of Medicine at the University of Ottawa. He has expertise in health economics and health technology assessment and works with private and public sector life sciences organizations to help them understand the value of health technology and its implications for health and innovation policy.
 </div>
