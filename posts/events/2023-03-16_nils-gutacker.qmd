@@ -3,7 +3,7 @@ title: "ISPOR NZ webinar - Prof Nils Gutacker"
 description: "16 March 2023"
 image: "_images/nils-gutacker_thumbnail.jpg"
 date: "2023-02-07"
-categories: Upcoming events
+categories: Past events
 ---
 
 ![](_images/nils-gutacker_thumbnail.jpg){style="float:left;margin-right:10px;margin-top:10px;width:240px;height:160px;"}
@@ -22,4 +22,4 @@ The webinar will be held at **10am on Thursday 16 March**. Please complete the r
 
 ## Webinar registration{style="max-width:800px; margin:auto"}
 
-<script src="https://www.cognitoforms.com/f/seamless.js" data-key="_dW8dQmWak6rztGhzLHX3g" data-form="1"></script>
+No longer available.

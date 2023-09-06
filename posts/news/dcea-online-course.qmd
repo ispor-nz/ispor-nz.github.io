@@ -1,0 +1,23 @@
+---
+title: "Online Course on Distributional Cost Effectiveness Analysis"
+description: "Mon 23 October to Fri 24 November 2023"
+date: "2023-06-08"
+categories: News
+image: "_images/dcea-course_thumbnail.jpg"
+---
+
+**5 modules over 5 weeks from Mon 23 October to Fri 24 November 2023**
+
+![](_images/dcea-course.jpg){style="float:left;margin-right:20px;margin-top:10px;width:240px;"}
+
+A new online course focusing on methods for analysing equity in the distribution of health programme costs and effects and trade-offs between equity and cost-effectiveness. Delivered by the Centre for Health Economics, University of York, UK, in collaboration with the Bergen Centre for Ethics and Priority Setting in Health, University of Bergen, Norway.
+
+This new online short course in distributional cost-effectiveness analysis (DCEA) provides hands-on training in methods for analysing the health inequality impacts of health programmes and trade-offs with cost effectiveness.
+
+The course is led by Professor Richard Cookson and based on the Oxford University Press handbook of Distributional Cost-Effectiveness Analysis.  It involves ‘bite-size’ video presentations by the authors of the handbook, hands-on exercises in MS Excel, online discussion forums, and “live” Q&A sessions (1 hour per module), requiring approximately 4 hours of study time per week (20 hours altogether).
+
+The course is aimed at health economists and other analysts with experience of health economic evaluation, who wish to learn how to use more specialised methods for analysing distributional impacts on health inequality and trade-offs with cost-effectiveness. It is designed for people familiar with cost-effectiveness analysis and it is envisaged that participants will currently be undertaking distributional cost-effectiveness analysis, or planning to do so in the near future.
+
+For enquiries, full details and to book a place, please click the link below:
+
+<https://www.york.ac.uk/che/courses/dcea-course/>

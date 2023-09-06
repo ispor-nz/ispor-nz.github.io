@@ -1,0 +1,67 @@
+---
+title: "Annual General Meeting 2023"
+description: "3 May 2023"
+date: "2023-03-30"
+categories: Past events
+image: "_images/ISPOR_NewZealandChapter_Logo_reshaped.jpg"
+---
+
+The Annual General Meeting of ISPOR (NZ Chapter) will be held from **8.50am to 1.30pm on Wednesday 3 May** at the University of Otago, Wellington (43 Hanson St, Newtown). All current and prospective members are warmly invited to attend.
+
+The meeting is free for all ISPOR NZ members. (If you are not currently a member, or your membership is due for renewal for the 2023-24 year, please join/renew via the [membership page](/membership.qmd).)
+
+The meeting will feature an exceptional line-up of guest speakers, presenting both in-person and virtually, as well as opportunities for networking and to catch up with friends and colleagues you may not have seen for some time (it's now been over three years since our last face-to-face meeting!). We will also have a session featuring PhD students from around the country presenting on their latest research. Please see below for information on the confirmed speakers to date, or [here](_images/ISPOR_NZ_AGM_2023_Programme.pdf){target="_blank"} for a PDF of the event programme.
+
+The scientific presentations and AGM will also be available via Zoom for any members unable to attend in person.
+
+To register, please complete the [online registration form](#webinar-registration) below.
+
+### Guest speakers
+
+::: {layout="[15, 90]"}
+![](_images/oriana-ciani.jpg){style="width:180px"}
+
+**Dr Oriana Ciani**\
+\
+*Associate Professor*\
+*SDA Bocconi School of Management, Bocconi University, Milan*
+:::
+
+Oriana Ciani is an Associate Professor in the Center for Health and Social Care Management at SDA Bocconi School of Management. Her research interests evolve around the methods for comparative effectiveness research and the use of evidence synthesis techniques to inform policy decisions in health care. In this talk, she will discuss considerations around the use of surrogate endpoint evidence in HTA, and the development of a new framework and decision tool to support agencies and payers when faced with this evidence in HTA practice.
+
+\
+
+::: {layout="[15, 90]"}
+![](_images/larry-lynd.jpg){style="width:180px"}
+
+**Prof Larry Lynd**\
+\
+*Professor and Associate Dean, Research*\
+*Faculty of Pharmaceutical Sciences, University of British Columbia, Vancouver*
+:::
+
+Prof Larry Lynd is the Associate Dean, Research, and Director of the Collaboration for Outcomes Research and Evaluation (CORE) at the University of British Columbia Faculty of Pharmaceutical Sciences. His research focuses on the integration of epidemiologic and health economic analyses on health outcomes to inform practice, policy, and research. In this talk, he will discuss the challenges and opportunities in making policy and reimbursement decisions for treatments for rare genetic diseases.
+
+\
+
+::: {layout="[15, 90]"}
+![](_images/john-kerr.jpg){style="width:180px"}
+
+**Dr John Kerr**\
+\
+*Senior Research Fellow*\
+*Department of Public Health, University of Otago, Wellington*\
+\
+*Science Lead*\
+*Public Health Communication Centre*
+:::
+
+John Kerr is a Senior Research Fellow in the Department of Public Health at the University of Otago, Wellington, and Science Lead for the Public Health Communication Centre (PHCC). His work at the centre focuses on promoting public health research and evidence to a wider audience. John will present an introduction to the work of the PHCC and their goals for achieving impact through communication and promotion of cutting-edge public health research. Authors of recent articles published by the PHCC will also present case studies of their research and impact.
+
+\
+
+***
+
+## Webinar registration{style="max-width:800px; margin:auto"}
+
+No longer available.

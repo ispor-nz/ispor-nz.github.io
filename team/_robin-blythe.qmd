@@ -1,0 +1,6 @@
+---
+title: "Robin Blythe"
+description: "Robin is a health economist and current PhD student in clinical informatics/biostatistics. His work focuses on clinical prediction model development, validation and implementation in large datasets. He has been a health economist since 2016, with a research interest in simulation modelling, health policy, and statistical methods."
+image: "_images/robin-blythe.jpg"
+id: 6
+---

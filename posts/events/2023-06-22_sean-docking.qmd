@@ -1,0 +1,28 @@
+---
+title: "ISPOR NZ webinar - Dr Sean Docking"
+description: "22 June 2023"
+image: "_images/sean-docking.jpg"
+date: "2023-06-08"
+categories: Past events
+---
+
+[*Integrating Carbon Emissions in Health Technology Assessments*]{style="font-size:1.5em;"}\
+[Thursday 22 June 2023, 1pm]{style="font-size:1.5em;"}
+
+![](_images/sean-docking.jpg){style="float:left;margin-right:20px;margin-top:10px;width:240px;"}
+
+We are very pleased to announce the next ISPOR NZ webinar will be presented by **Dr Sean Docking**.
+
+Dr Docking is a Research Fellow at the Department of Musculoskeletal Health and Clinical Epidemiology at Monash University. His research focuses on the cost-effectiveness and health technology assessment of diagnostic imaging in musculoskeletal conditions and on sustainability in the healthcare system.
+
+In this talk, he will discuss methods for integrating carbon emissions into health technology assessments. Globally, health care is responsible for 4.4% of carbon dioxide equivalent emissions, and many countries have committed to achieving low-carbon or net-zero carbon health services; however, carbon emissions are not currently considered when evaluating health technologies. Dr Docking will discuss several ways in which carbon emissions could be integrated with HTA, and what needs to be done to enable the routine consideration of carbon emissions in HTA.
+
+The webinar will be held at **1pm on Thursday 22 June**. Please complete the registration form below to secure your place.
+
+<br>
+
+***
+
+## Webinar registration{style="max-width:800px; margin:auto"}
+
+No longer available.

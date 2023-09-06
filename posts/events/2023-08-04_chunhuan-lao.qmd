@@ -1,0 +1,28 @@
+---
+title: "ISPOR NZ webinar - Dr Chunhuan Lao"
+description: "4 August 2023"
+image: "_images/chunhuan-lao.jpg"
+date: "2023-07-24"
+categories: Past events
+---
+
+[*Health research using the national administrative datasets*]{style="font-size:1.5em;"}\
+[Friday 4 August 2023, 1pm]{style="font-size:1.5em;"}
+
+![](_images/chunhuan-lao.jpg){style="float:left;margin-right:20px;margin-top:10px;width:180px;"}
+
+We are very pleased to announce the next ISPOR NZ webinar will be presented by **Dr Chunhuan Lao**.
+
+Dr Lao is a biostatistician and health economist at the University of Waikato with 10 years' experience of using the national administrative datasets. Her PhD thesis was about the costs and cost-effectiveness of prostate cancer screening and treatments. After her PhD, she has worked in other HRC-funded projects, on breast cancer, lung cancer, colorectal cancer, diabetes and co-occurrence of diabetes. Currently, she is working on a project "Characteristics, management, outcomes, and costs of systemic lupus erythematosus in New Zealand" funded by Arthritis New Zealand as a 3-year fellowship.
+
+In this seminar, she will talk about her research on using the national administrative datasets and linkage with other registers, including Te Rēhita Mate Ūtaetae - Breast Cancer Foundation New Zealand National Register, the Midland Lung Cancer Register, and the Australia and New Zealand Dialysis and Transplant Registry (ANZDATA).
+
+The webinar will be held at **1pm on Friday 4 August**. Please complete the registration form below to secure your place.
+
+<br>
+
+***
+
+## Webinar registration{style="max-width:800px; margin:auto"}
+
+No longer available.

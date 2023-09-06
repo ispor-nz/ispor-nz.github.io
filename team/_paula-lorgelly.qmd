@@ -1,0 +1,7 @@
+---
+title: "Paula Lorgelly"
+subtitle: "President"
+description: " "
+image: "_images/ISPOR_NewZealandChapter_Logo_edited.jpg"
+id: 1
+---
