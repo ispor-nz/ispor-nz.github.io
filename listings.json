@@ -1,0 +1,40 @@
+[
+  {
+    "listing": "/nz-chapter.html",
+    "items": []
+  },
+  {
+    "listing": "/events.html",
+    "items": [
+      "/posts/events/2023-08-04_chunhuan-lao.html",
+      "/posts/events/2023-06-22_sean-docking.html",
+      "/posts/events/2023-05-03_agm.html",
+      "/posts/events/2023-03-16_nils-gutacker.html",
+      "/posts/events/2022-11-10_health-reforms-panel.html",
+      "/posts/events/2022-10-31_emilia-price.html",
+      "/posts/events/2022-08-18_stephanie-harvard.html",
+      "/posts/events/2022-07-12_daniel-goldstein.html",
+      "/posts/events/2022-06-15_michael-law.html",
+      "/posts/events/2022-04-07_agm.html",
+      "/posts/events/2022-03-17_paula-lorgelly.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/events/2023-08-04_chunhuan-lao.html",
+      "/posts/news/hrc-girdlers-uk-fellowship.html",
+      "/posts/news/dcea-online-course.html",
+      "/posts/events/2023-06-22_sean-docking.html",
+      "/posts/events/2023-05-03_agm.html",
+      "/posts/events/2023-03-16_nils-gutacker.html",
+      "/posts/events/2022-11-10_health-reforms-panel.html",
+      "/posts/events/2022-10-31_emilia-price.html",
+      "/posts/events/2022-08-18_stephanie-harvard.html",
+      "/posts/events/2022-07-12_daniel-goldstein.html",
+      "/posts/events/2022-06-15_michael-law.html",
+      "/posts/events/2022-04-07_agm.html",
+      "/posts/events/2022-03-17_paula-lorgelly.html"
+    ]
+  }
+]
