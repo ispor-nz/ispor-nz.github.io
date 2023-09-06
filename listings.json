@@ -4,9 +4,11 @@
     "items": []
   },
   {
-    "listing": "/events.html",
+    "listing": "/index.html",
     "items": [
       "/posts/events/2023-08-04_chunhuan-lao.html",
+      "/posts/news/hrc-girdlers-uk-fellowship.html",
+      "/posts/news/dcea-online-course.html",
       "/posts/events/2023-06-22_sean-docking.html",
       "/posts/events/2023-05-03_agm.html",
       "/posts/events/2023-03-16_nils-gutacker.html",
@@ -20,11 +22,9 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/events.html",
     "items": [
       "/posts/events/2023-08-04_chunhuan-lao.html",
-      "/posts/news/hrc-girdlers-uk-fellowship.html",
-      "/posts/news/dcea-online-course.html",
       "/posts/events/2023-06-22_sean-docking.html",
       "/posts/events/2023-05-03_agm.html",
       "/posts/events/2023-03-16_nils-gutacker.html",

@@ -1,1 +1,1 @@
-Sitemap: https://ispor-nz.github.io/sitemap.xml
+Sitemap: https://github.com/ispor-nz/ispor-nz.github.io/sitemap.xml
