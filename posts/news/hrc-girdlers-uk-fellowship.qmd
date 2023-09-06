@@ -3,7 +3,7 @@ title: "HRC and Girdlers' UK Fellowship"
 description: "The HRC and Girdlers' UK Fellowship is open for applications"
 date: "2023-06-08"
 categories: News
-image: "_images/hrc-logo.webp"
+image: "_images/hrc-logo.jpg"
 ---
 
 <div style="float:left;width:150px;margin:20px;">
